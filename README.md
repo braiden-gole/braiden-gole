@@ -9,7 +9,7 @@
 * **Focus:** High-Performance RESTful APIs • Desktop & Mobile • Systems Development
 * **Status:** Available for Hire
 * **Location:** Ontario, Canada (EST / UTC-5)
-* **Education:** 3-Year Diploma in Software Engineering Technology, Conestoga College
+* **Education:** 3-Year Diploma in Computer Programming, Conestoga College
 
 ---
 
