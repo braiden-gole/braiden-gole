@@ -21,6 +21,6 @@
 ---
 
 ## 📬 Get in Touch
-* **Portfolio:** [braiden-gole.github.io](https://braiden-gole.github.io)
+* **Website:** [braiden-gole.github.io](https://braiden-gole.github.io)
 * **Email:** braiden.gole@gmail.com
 * **Phone:** +1 (519) 741-6963
