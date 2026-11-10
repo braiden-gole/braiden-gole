@@ -50,7 +50,6 @@
 
 ---
 
-* **Github:** https://github.com/braiden-gole/go-systems-blueprint
 * **Website:** https://braiden-gole.github.io/go-systems-blueprint-book
 
 ---
