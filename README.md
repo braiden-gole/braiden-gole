@@ -5,6 +5,10 @@
 
 ---
 
+<img width="4080" height="3072" alt="diploma" src="https://github.com/user-attachments/assets/6b94b84d-b0b7-44ec-aa05-f68fbb7326c2" />
+
+---
+
 ## 🚀 At a Glance
 * **Focus:** Web, Desktop, Mobile, and RESTful patterns.
 * **Status:** Available for Hire
