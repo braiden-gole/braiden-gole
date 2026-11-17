@@ -30,7 +30,6 @@ Books:
 
 - **Go Systems Blueprint:**
 [https://braiden-gole.github.io/go-systems-blueprint-book](https://braiden-gole.github.io/go-systems-blueprint-book)
-
 - **C Unlocked:**
 [https://braiden-gole.github.io/c-unlocked-book/](https://braiden-gole.github.io/c-unlocked-book/)
 
