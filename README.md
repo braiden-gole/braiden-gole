@@ -23,8 +23,9 @@
 * **Databases:** PostgreSQL • SQL Server • MongoDB • SQLite • MySQL • Microsoft SQL Server
 
 ---
+Books:
 
-* **Go Systems Blueprint Book:** https://braiden-gole.github.io/go-systems-blueprint-book
+* **Go Systems Blueprint:** https://braiden-gole.github.io/go-systems-blueprint-book
 * **C Unlocked:** https://braiden-gole.github.io/c-unlocked-book/
 
 ---
